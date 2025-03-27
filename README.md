@@ -1,6 +1,6 @@
 # data-analyst-prashit
 # Data Wrangling and Data Quality Check  
-!1.png
+! 1.png
 ## Data Wrangling Initiative at UCW for Attendance  
 
 ### Objective  
