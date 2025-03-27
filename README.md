@@ -46,6 +46,8 @@ The project covers:
 ### Timeline  
 **4 weeks**  
 
+### Screenshots
+<img src="1.png">
 ---  
 
 ## Data Quality Control for UCW Attendance Procedure  
