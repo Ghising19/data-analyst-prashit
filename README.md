@@ -63,6 +63,29 @@ The project covers:
 <img src="2222222.png">
 <img src="22222222.png">
 <img src="222222222.png">
+<img src="3.png">
+<img src="33.png">
+<img src="333.png">
+<img src="3333.png">
+<img src="33333.png">
+<img src="333333.png">
+<img src="3333333.png">
+<img src="33333333.png">
+<img src="333333333.png">
+<img src="3333333333.png">
+<img src="33333333333.png">
+<img src="333333333333.png">
+<img src="3333333333333.png">
+<img src="4.png">
+<img src="44.png">
+<img src="444.png">
+<img src="4444.png">
+<img src="44444.png">
+<img src="444444.png">
+<img src="4444444.png">
+<img src="44444444.png">
+<img src="444444444.png">
+<img src="4444444444.png">
 ---  
 
 ## Data Quality Control for UCW Attendance Procedure  
@@ -100,3 +123,12 @@ The project focuses on the following key areas:
 
 ### Timeline  
 **4 weeks**  
+## Screenshots
+<img src="5.png">
+<img src="55.png">
+<img src="555.png">
+<img src="5555.png">
+<img src="55555.png">
+<img src="555555.png">
+<img src="555555555.png">
+
