@@ -1,6 +1,6 @@
 # data-analyst-prashit
 # Data Wrangling and Data Quality Check  
-!(https://github.com/Ghising19/repositoryname/blob/main/screenshot1.png)](https://github.com/Ghising19/data-analyst-prashit/blob/Screenshots/1.png)
+!1.png
 ## Data Wrangling Initiative at UCW for Attendance  
 
 ### Objective  
