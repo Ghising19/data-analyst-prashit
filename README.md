@@ -48,6 +48,7 @@ The project covers:
 
 ### Screenshots
 <img src="1.png">
+<img src="11.png">
 ---  
 
 ## Data Quality Control for UCW Attendance Procedure  
