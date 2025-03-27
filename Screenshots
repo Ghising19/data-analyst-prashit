@@ -1,1 +1,5 @@
 cd path/Ghising19/data-analyst-prashit
+mkdir Screenshots
+cd Screenshots
+echo "1.png" > your_file.txt
+add folder_name/screenshots.txt
